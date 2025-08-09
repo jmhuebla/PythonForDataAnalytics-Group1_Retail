@@ -44,7 +44,7 @@ Se trabajó con diversos datasets de Shopify (clientes, pedidos, productos, vend
 
 ---
 
-## ��� Metodología Aplicada
+## Metodología Aplicada
 
 1. **Carga y limpieza de datos**  
    - Eliminación de registros con órdenes no entregadas o canceladas.  
@@ -64,7 +64,6 @@ Se trabajó con diversos datasets de Shopify (clientes, pedidos, productos, vend
      - Clientes Monto Alto  
      - Clientes Alta Frecuencia  
      - Clientes Perdidos  
-     - Otros
 
 4. **Exportación de resultados**  
    - Archivo final con clasificación de clientes exportado en formato `.xlsx`.
@@ -81,7 +80,6 @@ Se trabajó con diversos datasets de Shopify (clientes, pedidos, productos, vend
 | Clientes Monto Alto | Clientes que gastan mucho pero con baja frecuencia |
 | Clientes Alta Frecuencia | Compran seguido pero con gasto moderado |
 | Clientes Perdidos | Clientes inactivos por mucho tiempo |
-| Otros | No cumplen criterios de otros segmentos |
 
 ---
 
